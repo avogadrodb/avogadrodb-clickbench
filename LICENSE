@@ -1,0 +1,40 @@
+AvogadroDB Evaluation License, version 1.0 (October 2026)
+
+Copyright (c) 2026 Felipe Mendes Batista. All rights reserved.
+
+This license covers the AvogadroDB executables published in this repository
+(the "Software"). The source code of AvogadroDB is not covered and is not
+published here.
+
+1. Grant. Subject to this license, you may download, install and run the
+   Software, in executable form only, solely to (a) evaluate the Software and
+   (b) reproduce the results that AvogadroDB publishes in the ClickBench
+   benchmark (https://benchmark.clickhouse.com/).
+
+2. Restrictions. You may not: use the Software in production or with data you
+   depend on; redistribute, sublicense, sell, rent or host the Software for
+   third parties; modify, reverse engineer, decompile or disassemble the
+   Software, or attempt to derive its source code, except to the extent that
+   applicable law forbids this restriction; remove or alter any notice in the
+   Software.
+
+3. Benchmarks. You may run the Software in benchmarks and publish the results,
+   provided that you state the release tag and the sha256 of the executable
+   you used and describe the hardware.
+
+4. Ownership. The Software is licensed, not sold. The licensor keeps all
+   rights not expressly granted here. No other license, express or implied,
+   is granted.
+
+5. Term. This license takes effect when you download the Software and ends
+   automatically if you breach it; you must then delete all your copies. The
+   licensor may publish new versions of the Software under different terms.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+   FROM THE SOFTWARE OR ITS USE.
+
+7. Governing law. This license is governed by the laws of the Federative
+   Republic of Brazil.
